@@ -1,0 +1,1 @@
+how to create file using cmd and upload on git
